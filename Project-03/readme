@@ -1,0 +1,23 @@
+# Travel Agency Page
+
+## Description
+A simple static travel agency webpage created to practice HTML structure, layout organization, and basic SEO concepts.
+
+## Concepts Used
+- Semantic HTML structure
+- Headings and text hierarchy
+- Links embedded in Images
+- Meta description for basic SEO
+- Figure & figcaption for each destination
+
+## Features
+- Travel agency title and introduction
+- Destination sections
+- Links to different internal pages (group & private tours)
+- Clean and readable layout
+
+## Source
+Independently created as part of my web development learning journey, applying concepts learned from freeCodeCamp.
+
+## Status
+Completed – first version
