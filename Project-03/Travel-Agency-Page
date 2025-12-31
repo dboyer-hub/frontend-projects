@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="description" content="Explore top travel destinations, custom vacation packages, and unforgettable experiences. Let our travel agency plan your perfect trip."/>
+    <title>Odyssey travel</title>
+  </head>
+  <body>
+    <h1>Find Your Dream Vacation Today</h1>
+    <p>Embark on unforgettable journeys with our curated travel experiences, from exploring ancient ruins to relaxing on pristine beaches. We offer diverse packages for solo adventurers, couples, and families, focusing on culture, nature, and pure relaxation.</p> 
+    <h2>Packages</h2>
+    <p>Explore our available package options, including group and private tours.</p>
+    <ul>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a></li>
+      <li><a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a></li>
+    </ul>
+
+    <h2>Top Itineraries</h2>
+    <p>Check out some of our most popular destinations.</p>
+    <figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/colosseo.jpg" alt="Colosseum">
+  </a>
+  <figcaption>The Colosseum, an iconic symbol of Imperial Rome's architectural genius and a testament to its ancient history.</figcaption>
+</figure>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/alps.jpg" alt="Swiss Alps">
+  </a>
+  <figcaption>A panoramic view of the majestic Swiss Alps, featuring towering peaks and a lush green valley.</figcaption>
+</figure>
+
+<figure>
+  <a href="https://www.freecodecamp.org/learn" target="_blank">
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/sea.jpg" alt="Deep Blue Sea">
+  </a>
+  <figcaption>The deep blue sea, an endless horizon of tranquility.</figcaption>
+</figure>
+    <!-- More content would follow here -->
+</body>
+</html>   
